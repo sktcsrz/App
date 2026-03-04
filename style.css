@@ -110,8 +110,8 @@ nav {
 
 nav .container { 
     display: flex; 
-    justify-content: space-between; 
     align-items: center; 
+    justify-content: space-between;
 }
 
 .logo { 
@@ -120,7 +120,6 @@ nav .container {
     color: var(--primary); 
     letter-spacing: -0.5px;
     flex-shrink: 0;
-    margine-left: 50px;
 }
 
 .nav-links { 
@@ -352,6 +351,5 @@ nav .container {
 @media (max-width: 380px) {
     .grid-responsive { grid-template-columns: 1fr; } /* 1 Column for very small phones */
 }
-
 
 
