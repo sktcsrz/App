@@ -18,7 +18,7 @@ const firebaseConfig = {
 const IMGBB_API_KEY = "83cdd14bdbb113e25ea67c22b5864208"; 
 
 // THE GOOGLE EMAIL THAT HAS ADMIN ACCESS
-const ADMIN_EMAIL = "sb5846868@gmail.com , ydvsky221@gmail.com"; 
+const ADMIN_EMAIL = "sb584688@gmail.com"; 
 
 // ==========================================
 // 2. INITIALIZATION
@@ -662,3 +662,4 @@ if (document.getElementById('admin-app'))
         btn.textContent = "Add Method";
 
     };
+
